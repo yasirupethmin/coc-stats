@@ -1,0 +1,24 @@
+{
+  "name": "coc-stats",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Clash of Clans Player Dashboard — Track upgrades, calculate resources to max",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "clash-of-clans",
+    "dashboard",
+    "coc",
+    "upgrade-tracker"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^16.2.9",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  }
+}
